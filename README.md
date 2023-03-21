@@ -1,4 +1,3 @@
-### Hi there 👋
 ![Snake animation](https://github.com/Gilxhon001/Gilxhon001/blob/output/github-contribution-grid-snake.svg)
 
 ## 🌐 Socials:
